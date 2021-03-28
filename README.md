@@ -12,8 +12,8 @@ If we are looking to pick the best stock or two in which to invest, then we can 
 
 ### **Execution Times**
 After refactoring the code, it clearly ran at greater speed proving the efficiency.  
-2017 ran in 0.5625 seconds in original script then calculated in 0.109375 seconds after refactoring.
-2018 ran in 3.210938 seconds in original script then calculated in 0.09375 seconds after refactoring.
+**2017** ran in **0.5625** seconds in original script then calculated in **0.109375** seconds after refactoring.
+**2018** ran in **3.210938** seconds in original script then calculated in **0.09375** seconds after refactoring.
 
 ## **Summary:** 
 This challenge has been a great lesson in the realities of refactoring code and time management. On one hand, it’s clear that by going through code and reworking it for efficiency, you can produce a better-running piece of code. Putting aside extra time to refactor also allows the coder more time to understand the code and how it works. This would prove valuable for any files used often or likely to be duplicated and used for other purposes. The key disadvantage is programmer time spent. It goes back to the old adage “If it’s not broke, don’t fix it.” At times when a coder is working on a project and constrained on time, I would imagine a working code is more important than a perfectly efficient code. This comes back to the importance of using our good judgement in how we manage our projects and time. 
